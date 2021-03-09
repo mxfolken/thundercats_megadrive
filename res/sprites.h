@@ -1,0 +1,16 @@
+#ifndef _RES_SPRITES_H_
+#define _RES_SPRITES_H_
+
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_01;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_02;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_03;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_05;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_08;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_09;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_10;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_12;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_LEVEL_15;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_BINGO;
+extern const SpriteDefinition OBJ_RESOURCE_CHARACTER_BOSS;
+
+#endif // _RES_SPRITES_H_
