@@ -6,7 +6,7 @@ Mumm-Ra is planning to control the third planet, and the Thundercats must avoid 
 
 Detailed and set to music in the world of the Thundercats, a video game that every true fan of SEGA and the Thundercats cannot stop enjoying.
 
-Game programmed by Rolando Fdz. B. with C language and the SGDK created by Stephane-D.
+Game programmed by Rolando Fdz. B. with C language and the SGDK created by Stephane Dallongeville.
 
 SGDK: https://github.com/Stephane-D/SGDK
 
