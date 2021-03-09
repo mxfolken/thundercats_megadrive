@@ -10,3 +10,10 @@ Game programmed by Rolando Fdz. B. with C language and the SGDK created by Steph
 
 SGDK: https://github.com/Stephane-D/SGDK
 
+Releases are also available on the itch.io site:
+
+https://nova32-entertainment.itch.io/thundercats-for-sega-genesis
+
+
+
+
